@@ -1,6 +1,10 @@
-### Hi there 👋
+<h1>I'm Rakotomanana Michel</h1>
+
+<h3>A passionate software developer</h3>
 
 <!--
+### Hi there 👋
+
 **mrakotomanana/mrakotomanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
