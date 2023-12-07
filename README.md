@@ -1,4 +1,5 @@
-### Hi there 👋
+![Cover](https://github.com/mrakotomanana/mrakotomanana/blob/main/images/logo.jpg)
+<!-- ### Hi there 👋-->
 
 <!--
 **mrakotomanana/mrakotomanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
