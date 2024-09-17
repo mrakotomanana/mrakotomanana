@@ -1,6 +1,7 @@
-<h1>I'm Rakotomanana Michel</h1>
+<h1>I'm Rakotomanana Didier Michel</h1>
 
-<h3>A passionate software developer</h3>
+<h3>I am a skilled back-end developer experienced in Java. I specialize in developing server-side applications and databases that meet or exceed client expectations.
+I have a great interest in HTML, CSS, JavaScript, and various front-end frameworks.</h3>
 
 <!--
 ### Hi there 👋
